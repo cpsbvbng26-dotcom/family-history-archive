@@ -8,6 +8,8 @@ The transcriptions themselves are not copied here.
 Each entry points to the place where the material already is.
 The index was set down on 2026-11-20.
 
+The archive is on Zenodo. The DOI of the first version is [`10.5281/zenodo.24397144`](https://doi.org/10.5281/zenodo.24397144), and the DOI common to all versions is [`10.5281/zenodo.24397143`](https://doi.org/10.5281/zenodo.24397143).
+
 ## Conflict of interest
 
 The operator is a descendant of the person this index names.
