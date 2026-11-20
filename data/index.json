@@ -1,0 +1,41 @@
+{
+  "_": [
+    "索引です。運営者の先祖のうち、公開している記録が自ら故人だと述べる人について、すでに運営者のリポジトリで公開している一次史料の翻刻の所在を並べます。",
+    "翻刻そのものは写しません。location は、史料がすでにある場所です。read は、その場所を読んだ日です。commit は、読んだときのそのリポジトリの main のコミットです。",
+    "person は verification/check.py の DECEASED にある人だけです。DECEASED に載せるのは、公開している記録が故人だと述べ、続柄を述べている人だけです。"
+  ],
+  "entries": [
+    {
+      "id": "F1",
+      "person": "大谷恒",
+      "primary_source": "JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令（防衛省防衛研究所）",
+      "jacar": "C12070491000",
+      "transcription_ja": "史料ノートの第3節の翻刻（凍結した PDF）",
+      "transcription_en": "The transcription in section 3 of the source note (the frozen PDF)",
+      "location": "https://github.com/cpsbvbng26-dotcom/naval-gazette-notes/blob/main/pdf/naval-gazette-entry-otani-tsune.pdf",
+      "doi": "10.5281/zenodo.22055709",
+      "rights_ja": "CC BY 4.0。公報そのものの扱いは、naval-gazette-notes が決めていません。原資料の画像は、どこにも置いていません。",
+      "rights_en": "CC BY 4.0. How the gazette itself is treated is not decided in naval-gazette-notes. No image of the original is kept anywhere.",
+      "repository": "cpsbvbng26-dotcom/naval-gazette-notes",
+      "commit": "30ac46e6871f23110daeec98d254530fe737430e",
+      "read": "2026-11-20",
+      "sources": ["ngn-citation", "ngn-licence", "ngn-no-image"]
+    },
+    {
+      "id": "F2",
+      "person": "大谷恒",
+      "primary_source": "JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令（防衛省防衛研究所）",
+      "jacar": "C12070491000",
+      "transcription_ja": "同じ翻刻の機械可読の形（CSV と JSON）",
+      "transcription_en": "The same transcription in machine-readable form (CSV and JSON)",
+      "location": "https://github.com/cpsbvbng26-dotcom/naval-gazette-notes/blob/main/data/investiture-1943-09-11.csv",
+      "doi": null,
+      "rights_ja": "CC BY 4.0。公報そのものの扱いは、naval-gazette-notes が決めていません。原資料の画像は、どこにも置いていません。",
+      "rights_en": "CC BY 4.0. How the gazette itself is treated is not decided in naval-gazette-notes. No image of the original is kept anywhere.",
+      "repository": "cpsbvbng26-dotcom/naval-gazette-notes",
+      "commit": "30ac46e6871f23110daeec98d254530fe737430e",
+      "read": "2026-11-20",
+      "sources": ["ngn-citation", "ngn-licence", "ngn-no-image", "ngn-data-basis"]
+    }
+  ]
+}
