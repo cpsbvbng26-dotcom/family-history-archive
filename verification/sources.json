@@ -1,0 +1,28 @@
+{
+  "_": [
+    "索引と、入れていないものの記録が拠る、運営者の公開の記録からの引用です。どれも、記したコミットの版から一字一句そのまま写しました。読んだ日は 2026-11-20 です。",
+    "verification/check.py は、索引の項目と README の断りを、ここの引用と突き合わせます。--online は、同じファイルを各リポジトリの main から取り寄せ直し、引用がいまもそこにあるかを見ます。"
+  ],
+  "read": "2026-11-20",
+  "commits": {
+    "cpsbvbng26-dotcom/naval-gazette-notes": "30ac46e6871f23110daeec98d254530fe737430e",
+    "cpsbvbng26-dotcom/cpsbvbng26-dotcom": "c7c03426a1658bf2ec225464335a5b0650ff4f1b",
+    "cpsbvbng26-dotcom/self-correction": "ec676c98f5e0fa831af451cb26697156fc00e4ef"
+  },
+  "quotes": {
+    "ngn-relation": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "README.md", "text": "公報の大谷恒は、報道の大谷恒（著者の外曾祖父）と同一人物です。" },
+    "ngn-deceased": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "README.md", "text": "そのうち大谷恒は戦死しています。" },
+    "ngn-motive": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "ERRATA.md", "text": "大谷恒は著者の外曾祖父です。この一件を調べた動機は血縁であり、紙面はそれを書いていません。" },
+    "ngn-citation": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "README.md", "text": "JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令（防衛省防衛研究所）" },
+    "ngn-licence": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "README.md", "text": "| 散文・史料ノート・構造化データ —— `README.md`、`ERRATA.md`、翻刻のデータ、`pdf/` の PDF | [CC BY 4.0](LICENSE) |" },
+    "ngn-no-image": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "README.md", "text": "このリポジトリが拠る一次史料と、その所在です。原資料の画像は置いていません。所在だけを書きます。" },
+    "ngn-doi": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "README.md", "text": "DOI [10.5281/zenodo.22055709](https://doi.org/10.5281/zenodo.22055709)" },
+    "ngn-data-basis": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "data/README.md", "text": "翻刻は JACAR 公開画像の目視による確認にもとづきます。" },
+    "ngn-outside": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "README.md", "text": "この公報の外に、報道で分かったことと、家に伝わっていることと、家にあった物があります。どれも一次史料には当たっていません。" },
+    "hub-withheld": { "repository": "cpsbvbng26-dotcom/cpsbvbng26-dotcom", "file": "docs/external-evaluations.md", "text": "**引用のうち一名の氏名を伏せました**。存命かどうかを確かめていない人物です。" },
+    "hub-withheld-mark": { "repository": "cpsbvbng26-dotcom/cpsbvbng26-dotcom", "file": "docs/external-evaluations.md", "text": "〔氏名を伏せた一名〕" },
+    "hub-rule-11": { "repository": "cpsbvbng26-dotcom/cpsbvbng26-dotcom", "file": "CLAUDE.md", "text": "11. **JACAR の原資料画像を追加しない**。防衛省防衛研究所 戦史研究センターへの\n    連絡が先である。" },
+    "sc-023": { "repository": "cpsbvbng26-dotcom/self-correction", "file": "REGISTER.md", "text": "### SC-023 —— 先祖の頁が指している文書に、第三者の氏名が載っていました" },
+    "sc-032": { "repository": "cpsbvbng26-dotcom/self-correction", "file": "REGISTER.md", "text": "2026年9月11日、利用者の指示で四つの頁を消しました。" }
+  }
+}
