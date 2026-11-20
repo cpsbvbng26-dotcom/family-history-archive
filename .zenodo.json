@@ -1,0 +1,30 @@
+{
+  "title": "family-history-archive: an index of where transcriptions of primary sources about the operator's deceased ancestors are kept",
+  "description": "<p>An index of where, in the operator's repositories, transcriptions of primary sources about deceased ancestors of the operator are kept. Each entry gives the location, the source in the form the record where it is kept prescribes, the rights and the date read, and copies no transcription. A person enters only when a public record of the operator calls that person deceased and states the relation. The first entries point to the transcription of an entry of 11 September 1943 in the Naval Gazette (JACAR Ref.C12070491000) kept in naval-gazette-notes. The operator is a descendant of the person indexed. No image of an original, no family register and no name that the operator's records withhold is kept.</p><p>運営者の先祖のうち、故人についての一次史料の翻刻が、運営者のリポジトリのどこにあるかを並べる索引です。</p>",
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "jpn",
+  "creators": [
+    {
+      "name": "Nemoto, Takuya",
+      "orcid": "0009-0000-1406-0547"
+    }
+  ],
+  "keywords": [
+    "family history",
+    "archival transcription",
+    "index",
+    "JACAR",
+    "conflict of interest",
+    "deterministic verification"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22055709",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "Claude Code (Anthropic) was used to write the index, the README text and the checks, at the author's request, after reading the records where the sources are kept; the sources themselves were not read again. The author is responsible for the content. Claude is not an author. The index and the text are CC BY 4.0 (LICENSE); the check scripts are MIT (LICENSE-CODE). The licence field of this record covers the index and the text only. The transcriptions and data the index points to are licensed where they are kept."
+}
