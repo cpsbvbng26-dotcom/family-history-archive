@@ -8,7 +8,7 @@
     {
       "id": "F1",
       "person": "大谷恒",
-      "primary_source": "JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令（防衛省防衛研究所）",
+      "primary_source": "JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令、昭和１９年１月．昭和１９年５月　海軍公報（部内限）号外（０法令－海軍（二復）公報－１３３）（防衛省防衛研究所）",
       "jacar": "C12070491000",
       "transcription_ja": "史料ノートの第3節の翻刻（凍結した PDF）",
       "transcription_en": "The transcription in section 3 of the source note (the frozen PDF)",
@@ -17,14 +17,14 @@
       "rights_ja": "CC BY 4.0。公報そのものの扱いは、naval-gazette-notes が決めていません。原資料の画像は、どこにも置いていません。",
       "rights_en": "CC BY 4.0. How the gazette itself is treated is not decided in naval-gazette-notes. No image of the original is kept anywhere.",
       "repository": "cpsbvbng26-dotcom/naval-gazette-notes",
-      "commit": "30ac46e6871f23110daeec98d254530fe737430e",
-      "read": "2026-11-20",
+      "commit": "88d90d1751068fe6e42331726ebc2070a028f0fa",
+      "read": "2026-11-25",
       "sources": ["ngn-citation", "ngn-licence", "ngn-no-image"]
     },
     {
       "id": "F2",
       "person": "大谷恒",
-      "primary_source": "JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令（防衛省防衛研究所）",
+      "primary_source": "JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令、昭和１９年１月．昭和１９年５月　海軍公報（部内限）号外（０法令－海軍（二復）公報－１３３）（防衛省防衛研究所）",
       "jacar": "C12070491000",
       "transcription_ja": "同じ翻刻の機械可読の形（CSV と JSON）",
       "transcription_en": "The same transcription in machine-readable form (CSV and JSON)",
@@ -33,8 +33,8 @@
       "rights_ja": "CC BY 4.0。公報そのものの扱いは、naval-gazette-notes が決めていません。原資料の画像は、どこにも置いていません。",
       "rights_en": "CC BY 4.0. How the gazette itself is treated is not decided in naval-gazette-notes. No image of the original is kept anywhere.",
       "repository": "cpsbvbng26-dotcom/naval-gazette-notes",
-      "commit": "30ac46e6871f23110daeec98d254530fe737430e",
-      "read": "2026-11-20",
+      "commit": "88d90d1751068fe6e42331726ebc2070a028f0fa",
+      "read": "2026-11-25",
       "sources": ["ngn-citation", "ngn-licence", "ngn-no-image", "ngn-data-basis"]
     }
   ]
