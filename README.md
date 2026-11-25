@@ -29,8 +29,8 @@ naval-gazette-notes の README は、大谷恒を著者の外曾祖父と書い�
 
 | 番号 | 人物 | 史料 | 翻刻 | 所在 | 権利 | 読んだ日 |
 | --- | --- | --- | --- | --- | --- | --- |
-| F1 | 大谷恒 | JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令（防衛省防衛研究所） | 史料ノートの第3節の翻刻（凍結した PDF） | [naval-gazette-notes の pdf/naval-gazette-entry-otani-tsune.pdf](https://github.com/cpsbvbng26-dotcom/naval-gazette-notes/blob/main/pdf/naval-gazette-entry-otani-tsune.pdf)（DOI [10.5281/zenodo.22055709](https://doi.org/10.5281/zenodo.22055709)） | CC BY 4.0。公報そのものの扱いは、naval-gazette-notes が決めていません。原資料の画像は、どこにも置いていません。 | 2026-11-20 |
-| F2 | 大谷恒 | JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令（防衛省防衛研究所） | 同じ翻刻の機械可読の形（CSV と JSON） | [naval-gazette-notes の data/investiture-1943-09-11.csv](https://github.com/cpsbvbng26-dotcom/naval-gazette-notes/blob/main/data/investiture-1943-09-11.csv) | CC BY 4.0。公報そのものの扱いは、naval-gazette-notes が決めていません。原資料の画像は、どこにも置いていません。 | 2026-11-20 |
+| F1 | 大谷恒 | JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令、昭和１９年１月．昭和１９年５月　海軍公報（部内限）号外（０法令－海軍（二復）公報－１３３）（防衛省防衛研究所） | 史料ノートの第3節の翻刻（凍結した PDF） | [naval-gazette-notes の pdf/naval-gazette-entry-otani-tsune.pdf](https://github.com/cpsbvbng26-dotcom/naval-gazette-notes/blob/main/pdf/naval-gazette-entry-otani-tsune.pdf)（DOI [10.5281/zenodo.22055709](https://doi.org/10.5281/zenodo.22055709)） | CC BY 4.0。公報そのものの扱いは、naval-gazette-notes が決めていません。原資料の画像は、どこにも置いていません。 | 2026-11-25 |
+| F2 | 大谷恒 | JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令、昭和１９年１月．昭和１９年５月　海軍公報（部内限）号外（０法令－海軍（二復）公報－１３３）（防衛省防衛研究所） | 同じ翻刻の機械可読の形（CSV と JSON） | [naval-gazette-notes の data/investiture-1943-09-11.csv](https://github.com/cpsbvbng26-dotcom/naval-gazette-notes/blob/main/data/investiture-1943-09-11.csv) | CC BY 4.0。公報そのものの扱いは、naval-gazette-notes が決めていません。原資料の画像は、どこにも置いていません。 | 2026-11-25 |
 
 | 人物 | 続柄 | 故人であることと続柄の出どころ |
 | --- | --- | --- |
@@ -102,6 +102,7 @@ naval-gazette-notes の README は、その窓口として cpsbvbng26-dotcom の
 | Claude Code（Anthropic） | 索引の項目、README の文、`verification/` の検査、所在の記録からの引用 | `verification/check.py` の検査。運営者が読んで確かめた記録はありません |
 
 索引の項目は、Claude Code が所在の記録を 2026-11-20 に読んで書きました。
+2026-11-25 に、naval-gazette-notes の出典表記に簿冊名と請求番号が補われたので、所在の記録を読み直して項目を直しました。
 史料そのものは読み直していません。
 Claude は著者ではありません。
 
