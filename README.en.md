@@ -27,8 +27,8 @@ Every entry points to a location on main of one of the operator's repositories.
 
 | No. | Person | Source | Transcription | Location | Rights | Read |
 | --- | --- | --- | --- | --- | --- | --- |
-| F1 | 大谷恒 | JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令（防衛省防衛研究所） | The transcription in section 3 of the source note (the frozen PDF) | [pdf/naval-gazette-entry-otani-tsune.pdf in naval-gazette-notes](https://github.com/cpsbvbng26-dotcom/naval-gazette-notes/blob/main/pdf/naval-gazette-entry-otani-tsune.pdf) (DOI [10.5281/zenodo.22055709](https://doi.org/10.5281/zenodo.22055709)) | CC BY 4.0. How the gazette itself is treated is not decided in naval-gazette-notes. No image of the original is kept anywhere. | 2026-11-20 |
-| F2 | 大谷恒 | JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令（防衛省防衛研究所） | The same transcription in machine-readable form (CSV and JSON) | [data/investiture-1943-09-11.csv in naval-gazette-notes](https://github.com/cpsbvbng26-dotcom/naval-gazette-notes/blob/main/data/investiture-1943-09-11.csv) | CC BY 4.0. How the gazette itself is treated is not decided in naval-gazette-notes. No image of the original is kept anywhere. | 2026-11-20 |
+| F1 | 大谷恒 | JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令、昭和１９年１月．昭和１９年５月　海軍公報（部内限）号外（０法令－海軍（二復）公報－１３３）（防衛省防衛研究所） | The transcription in section 3 of the source note (the frozen PDF) | [pdf/naval-gazette-entry-otani-tsune.pdf in naval-gazette-notes](https://github.com/cpsbvbng26-dotcom/naval-gazette-notes/blob/main/pdf/naval-gazette-entry-otani-tsune.pdf) (DOI [10.5281/zenodo.22055709](https://doi.org/10.5281/zenodo.22055709)) | CC BY 4.0. How the gazette itself is treated is not decided in naval-gazette-notes. No image of the original is kept anywhere. | 2026-11-25 |
+| F2 | 大谷恒 | JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令、昭和１９年１月．昭和１９年５月　海軍公報（部内限）号外（０法令－海軍（二復）公報－１３３）（防衛省防衛研究所） | The same transcription in machine-readable form (CSV and JSON) | [data/investiture-1943-09-11.csv in naval-gazette-notes](https://github.com/cpsbvbng26-dotcom/naval-gazette-notes/blob/main/data/investiture-1943-09-11.csv) | CC BY 4.0. How the gazette itself is treated is not decided in naval-gazette-notes. No image of the original is kept anywhere. | 2026-11-25 |
 
 | Person | Relation | Where the death and the relation are stated |
 | --- | --- | --- |
@@ -100,6 +100,7 @@ The use of language models is set out in the same table as in the other reposito
 | Claude Code (Anthropic) | The entries of the index, README text, the checks in `verification/`, and the quotations from the records where the sources are kept | The checks of `verification/check.py`; there is no record of the operator reading and checking it |
 
 Claude Code wrote the entries after reading those records on 2026-11-20.
+On 2026-11-25, after the volume name and the call number were added to the citation in naval-gazette-notes, Claude Code read the records again and corrected the entries.
 The sources themselves were not read again.
 Claude is not an author.
 

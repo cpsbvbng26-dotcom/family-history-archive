@@ -1,19 +1,19 @@
 {
   "_": [
-    "索引と、入れていないものの記録が拠る、運営者の公開の記録からの引用です。どれも、記したコミットの版から一字一句そのまま写しました。読んだ日は 2026-11-20 です。",
+    "索引と、入れていないものの記録が拠る、運営者の公開の記録からの引用です。どれも、記したコミットの版から一字一句そのまま写しました。読んだ日は 2026-11-25 です。",
     "verification/check.py は、索引の項目と README の断りを、ここの引用と突き合わせます。--online は、同じファイルを各リポジトリの main から取り寄せ直し、引用がいまもそこにあるかを見ます。"
   ],
-  "read": "2026-11-20",
+  "read": "2026-11-25",
   "commits": {
-    "cpsbvbng26-dotcom/naval-gazette-notes": "30ac46e6871f23110daeec98d254530fe737430e",
-    "cpsbvbng26-dotcom/cpsbvbng26-dotcom": "c7c03426a1658bf2ec225464335a5b0650ff4f1b",
-    "cpsbvbng26-dotcom/self-correction": "ec676c98f5e0fa831af451cb26697156fc00e4ef"
+    "cpsbvbng26-dotcom/naval-gazette-notes": "88d90d1751068fe6e42331726ebc2070a028f0fa",
+    "cpsbvbng26-dotcom/cpsbvbng26-dotcom": "fcac1ba9cc20cc095151923e98b96c92ed52cd39",
+    "cpsbvbng26-dotcom/self-correction": "7c25d98f5ae0ed786c31ec15ade5035086d60aaa"
   },
   "quotes": {
     "ngn-relation": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "README.md", "text": "公報の大谷恒は、報道の大谷恒（著者の外曾祖父）と同一人物です。" },
     "ngn-deceased": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "README.md", "text": "そのうち大谷恒は戦死しています。" },
     "ngn-motive": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "ERRATA.md", "text": "大谷恒は著者の外曾祖父です。この一件を調べた動機は血縁であり、紙面はそれを書いていません。" },
-    "ngn-citation": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "README.md", "text": "JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令（防衛省防衛研究所）" },
+    "ngn-citation": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "README.md", "text": "JACAR（アジア歴史資料センター）Ref.C12070491000、海軍公報（部内限）號外　昭和十八年九月十一日發令、昭和１９年１月．昭和１９年５月　海軍公報（部内限）号外（０法令－海軍（二復）公報－１３３）（防衛省防衛研究所）" },
     "ngn-licence": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "README.md", "text": "| 散文・史料ノート・構造化データ —— `README.md`、`ERRATA.md`、翻刻のデータ、`pdf/` の PDF | [CC BY 4.0](LICENSE) |" },
     "ngn-no-image": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "README.md", "text": "このリポジトリが拠る一次史料と、その所在です。原資料の画像は置いていません。所在だけを書きます。" },
     "ngn-doi": { "repository": "cpsbvbng26-dotcom/naval-gazette-notes", "file": "README.md", "text": "DOI [10.5281/zenodo.22055709](https://doi.org/10.5281/zenodo.22055709)" },
